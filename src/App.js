@@ -55,6 +55,7 @@ setParksList(newArray);
       <div className="App">
           {/* <button onClick={removePark}></button> */}
           <h1>Parks</h1>
+          <p>holaaa</p>
           {
           // condition-goes-here ? return-this-if-true : return-this-if-false
           parksList.length > 0
